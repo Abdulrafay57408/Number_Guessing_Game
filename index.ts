@@ -37,6 +37,6 @@ while(true){
     }
 
     else{
-        console.log(`\n\tYou guess a wrong number, the number is ${randomNum}\n\t`)
+        console.log(`\n\tYou guess a wrong number, the number is ${randomNum}\n`)
     }
 }
